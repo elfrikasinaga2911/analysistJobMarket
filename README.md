@@ -24,4 +24,4 @@ Manfaat Proyek
 - Membandingkan kisaran gaji berdasarkan posisi
 - Memberikan gambaran gaji berdasarkan kategori tertentu seperti lokasi, role, maupun skill dominan.
 
-Autor: Elfrika Sari M Sinaga_41823010076
+Autor: BI_Elfrika Sari M Sinaga_Tugas3
