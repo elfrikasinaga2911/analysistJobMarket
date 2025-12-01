@@ -1,6 +1,5 @@
 # ANALYSIST JOB MARKET
 TUGAS 3 BUSINESS INTELLIGENCE
-Autor: Elfrika Sari M Sinaga_41823010076
 
 Data
 - Data studi kasus Analysing Job Market Data format CSV
@@ -24,3 +23,5 @@ Manfaat Proyek
 - Membantu dalam memetakan kebutuhan talenta sesuai level pengalaman — entry level, mid, hingga senior.
 - Membandingkan kisaran gaji berdasarkan posisi
 - Memberikan gambaran gaji berdasarkan kategori tertentu seperti lokasi, role, maupun skill dominan.
+
+Autor: Elfrika Sari M Sinaga_41823010076
