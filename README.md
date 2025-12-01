@@ -6,7 +6,8 @@ Data
 - Data Cleaning ke Power BI
 - Transformasi dengan penghapusan duplikat dan standarisasi nama kolom.
 
-Fitur Utama
+# Fitur Utama
+
 Jobs Dashboard
 Menampilkan jumlah serta persebaran lowongan berdasarkan lokasi, level posisi, serta tren permintaan pekerjaan.
 
