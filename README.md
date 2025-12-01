@@ -1,5 +1,6 @@
-# analysistJobMarket
+# ANALYSIST JOB MARKET
 TUGAS 3 BUSINESS INTELLIGENCE
+Autor: Elfrika Sari M Sinaga_41823010076
 
 Data
 - Data studi kasus Analysing Job Market Data format CSV
